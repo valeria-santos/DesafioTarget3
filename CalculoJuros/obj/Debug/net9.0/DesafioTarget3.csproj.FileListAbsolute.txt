@@ -1,0 +1,14 @@
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\bin\Debug\net9.0\DesafioTarget3.exe
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\bin\Debug\net9.0\DesafioTarget3.deps.json
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\bin\Debug\net9.0\DesafioTarget3.runtimeconfig.json
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\bin\Debug\net9.0\DesafioTarget3.dll
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\bin\Debug\net9.0\DesafioTarget3.pdb
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\obj\Debug\net9.0\DesafioTarget3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\obj\Debug\net9.0\DesafioTarget3.AssemblyInfoInputs.cache
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\obj\Debug\net9.0\DesafioTarget3.AssemblyInfo.cs
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\obj\Debug\net9.0\DesafioTarget3.csproj.CoreCompileInputs.cache
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\obj\Debug\net9.0\DesafioTarget3.dll
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\obj\Debug\net9.0\refint\DesafioTarget3.dll
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\obj\Debug\net9.0\DesafioTarget3.pdb
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\obj\Debug\net9.0\DesafioTarget3.genruntimeconfig.cache
+C:\Users\santo\projetos\DesafioTarget3\CalculoJuros\obj\Debug\net9.0\ref\DesafioTarget3.dll
